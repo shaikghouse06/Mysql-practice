@@ -1,0 +1,10 @@
+customernumber int         
+ customername    varchar(30) 
+ phone           varchar(15) 
+ address1        varchar(15) 
+ address2        varchar(5)
+ city            varchar(50) 
+ state           varchar(20) 
+ pincode         varchar(10) 
+ country         varchar(20) 
+ customerid      int 
